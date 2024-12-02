@@ -1,0 +1,9 @@
+porchlike,A
+porch,N
+pose,V
+posh,A
+posingly,v
+position buoy,h
+presidentially,v
+pretender,N
+Pribilof Islands,p
