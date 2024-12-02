@@ -16,3 +16,5 @@ The following files are provided:
 - Complete ```POSDictionary.java``` so that all methods conform to the docstrings. Test your completed file by running the two provided application programs. Since these are command-line applications, you should execute them from the terminal.
 - Once **POSDictionary** is working, create a MadLibs console user-interface that plays the game automatically with the selected words.  You may need to add accessor methods to complete this step.
 - Submit
+
+Original found at https://w3.cs.jmu.edu/spragunr/CS159/activities/array_lists/array_lists.shtml
